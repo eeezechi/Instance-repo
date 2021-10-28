@@ -1,3 +1,3 @@
 # Instance
 
-Description and explanation of the learning process in Github
+Description and explanation of the learning process in Github.
